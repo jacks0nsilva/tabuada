@@ -32,6 +32,12 @@ a{
 }
 
 @media only screen and (max-width: 700px){
+    
+    #tabuada{
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
     section{
         width: 85vw;
     }
